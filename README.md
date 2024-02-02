@@ -1,0 +1,2 @@
+# GooglePlayPrivacy
+GooglePlayPrivacyNotice
